@@ -1,4 +1,4 @@
 def square_array(array)
   squared = []
-  end
+  array.each do 
 end
